@@ -9,3 +9,5 @@ echo "second fruit: ${FRUITS[1]}"
 echo "third fruit: ${FRUITS[2]}"
 
 echo "all fruits: ${FRUITS[@]}"
+
+$date
