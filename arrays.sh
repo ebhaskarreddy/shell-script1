@@ -10,4 +10,4 @@ echo "third fruit: ${FRUITS[2]}"
 
 echo "all fruits: ${FRUITS[@]}"
 
-$(date)
+echo "$(date)"
