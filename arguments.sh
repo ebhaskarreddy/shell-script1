@@ -13,6 +13,7 @@ echo "$PERSON2: I am good $PERSON1, How are you"
 
 echo "please enter the username"
 
+username=bhaskar
 read -s USERNAME
 
 echo "please enter psswd"
