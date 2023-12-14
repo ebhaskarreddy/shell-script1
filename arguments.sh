@@ -23,3 +23,5 @@ read -s PASSWD
 echo "sucess $username"
 
 echo "passwd ${passwd}"
+
+echo "username is : userrname"
