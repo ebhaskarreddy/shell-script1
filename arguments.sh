@@ -21,3 +21,5 @@ echo "please enter psswd"
 read -s PASSWD
 
 echo "sucess $username"
+
+echo "passwd is : passwd"
