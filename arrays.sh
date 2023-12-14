@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "$date"
+echo "$(date)"
 FRUITS=("Apple" "Banana" "Orange")
 
 echo "first fruit: ${FRUITS[0]}"
