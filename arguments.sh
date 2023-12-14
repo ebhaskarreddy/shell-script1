@@ -18,3 +18,5 @@ read -s USERNAME
 echo "please enter psswd"
 
 read -s PASSWD
+
+echo "sucess $username"
