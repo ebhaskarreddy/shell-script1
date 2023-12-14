@@ -1,6 +1,6 @@
 #!/bin/bash
 
-DATE=$date
+DATE=$(date)
 
 PERSON1=Robert
 PERSON2=Raheem
