@@ -3,7 +3,6 @@
 
 ID=$(id -u)
 TIMESTAMP=$(date +%F-%H-%M-%S)
-R
 
 LOGFILE="/temp/$0-$TIMESTAMP.log"
 VALIDATE(){
